@@ -131,8 +131,6 @@ Distributed under the GIT License. See `LICENSE` for more information.
 
 Josy George - [@github](https://github.com/josygeorge/)
 
-Assignment Link: [Python Assignment](https://github.com/josygeorge/Python-Assignment)
-
 <!-- ACKNOWLEDGEMENTS -->
 
 ## Acknowledgements

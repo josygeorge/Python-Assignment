@@ -40,14 +40,15 @@
 ## About The Assignment
 
 User to input the number of the courses that he/she has finished, then loop for x of times based on the number of courses to let the user input the grade/mark for each course then you will find the average of all these courses and display his/her grade.
-• This assignment will a be demonstration of your skills in:
-▪ Creating variable following Python naming convention
-▪ Reading/output data from/to VS Code Terminal
-▪ Converting string data type to integer
-▪ Using the two types of loop: While and For
-▪ Arithmetic operations with BEDMAS Rules
-▪ Using lists (Like Arrays in JavaScript)
-▪ If elif condition with logical operators
+
+- This assignment will a be demonstration of your skills in:
+- Creating variable following Python naming convention
+- Reading/output data from/to VS Code Terminal
+- Converting string data type to integer
+- Using the two types of loop: While and For
+- Arithmetic operations with BEDMAS Rules
+- Using lists (Like Arrays in JavaScript)
+- If elif condition with logical operators
 
 ### Built With
 

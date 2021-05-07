@@ -84,7 +84,7 @@ The project has the following file structure.
    ```sh
    git add .
    ```
-5. Commit `config.js`
+5. Commit `commit`
    ```sh
    git commit -m "text_message"
    ```

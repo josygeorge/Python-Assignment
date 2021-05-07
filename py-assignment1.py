@@ -19,8 +19,8 @@ while (i <= num_of_course):
     i += 1
 
 # 'For' iteration to print the items of course_marks list
-for x in course_marks:
-    print(x)
+for mark in course_marks:
+    print(mark)
 
 
 # Part 2: Find the average / mean

@@ -17,16 +17,16 @@ while (i <= num_of_courses):
     i += 1
 
 # 'For' iteration to print the items of course_marks list
-for mark in course_marks:
-    print(mark)
+for item in course_marks:
+    print(item)
 
 
 # Part 2: Find the average / mean
 
 # loop through the marks to find the total marks
 total_marks = 0
-for x in range(len(course_marks)):
-    total_marks += course_marks[x]
+for mark in course_marks:
+    total_marks += mark
 
 # finding average
 average = total_marks / num_of_courses

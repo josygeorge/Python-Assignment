@@ -4,16 +4,14 @@ print('--------- PYTHON FUNDAMENTALS - ASSIGNMENT -----------')
 # Part 1: User Input
 
 # Declare a variable to accept the input
-num_of_courses = input("How many courses did you finish? ")
-# variable with integer value
-num_of_course = int(num_of_courses)
+num_of_courses = int(input("How many courses did you finish? "))
 
 # Declaring an empty list
 course_marks = []
 
 # 'While' iteration
 i = 1
-while (i <= num_of_course):
+while (i <= num_of_courses):
     # Populating/updating the list with values on each iteration
     course_marks.append(int(input(f"Enter your mark for the course {i}: ")))
     i += 1
@@ -31,11 +29,11 @@ for x in range(len(course_marks)):
     total_marks += course_marks[x]
 
 # finding average
-average = total_marks / num_of_course
+average = total_marks / num_of_courses
 
 # formatting average for 2 decimal places
 avg = format(average, '.2f')
-print(f"Your average for your {num_of_course} courses is: {avg}")
+print(f"Your average for your {num_of_courses} courses is: {avg}")
 
 
 # Part 3: Output the grade using 'if - elif' condition

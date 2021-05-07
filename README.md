@@ -137,3 +137,4 @@ Josy George - [@github](https://github.com/josygeorge/)
 
 - [Python Controlflow](https://docs.python.org/3/tutorial/controlflow.html)
 - [Python Datastructures](https://docs.python.org/3/tutorial/datastructures.html)
+- [Instructor Notes](https://github.com/anmarjarjees?tab=repositories)

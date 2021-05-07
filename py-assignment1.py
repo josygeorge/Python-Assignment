@@ -1,5 +1,5 @@
-# PYTHON ASSIGNMENT
-print('--------- PYTHON ASSIGNMENT -----------')
+# PYTHON FUNDAMENTALS ASSIGNMENT
+print('--------- PYTHON FUNDAMENTALS - ASSIGNMENT -----------')
 
 # Part 1: User Input
 

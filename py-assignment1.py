@@ -13,7 +13,7 @@ course_marks = []
 i = 1
 while (i <= num_of_courses):
     # Populating/updating the list with values on each iteration
-    course_marks.append(int(input(f"Enter your mark for the course {i}: ")))
+    course_marks.append(float(input(f"Enter your mark for the course {i}: ")))
     i += 1
 
 # 'For' iteration to print the items of course_marks list

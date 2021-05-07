@@ -50,4 +50,4 @@ elif (average >= 60 and average <= 69):
 elif average < 60:
     print("Your grade is F")
 
-print('--------- PYTHON ASSIGNMENT By Josy George -----------')
+print('--------- 1 PYTHON ASSIGNMENT By Josy George -----------')

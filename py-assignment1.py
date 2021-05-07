@@ -1,3 +1,4 @@
+# PYTHON ASSIGNMENT
 print('--------- PYTHON ASSIGNMENT -----------')
 
 # Part 1: User Input
@@ -25,12 +26,12 @@ for x in course_marks:
 # Part 2: Find the average / mean
 
 # loop through the marks to find the total marks
-sum = 0
+total_marks = 0
 for i in range(len(course_marks)):
-    sum += course_marks[i]
+    total_marks += course_marks[i]
 
 # finding average
-average = sum / num_of_course
+average = total_marks / num_of_course
 
 # formatting average for 2 decimal places
 avg = format(average, '.2f')

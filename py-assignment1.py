@@ -35,7 +35,7 @@ average = total_marks / num_of_course
 
 # formatting average for 2 decimal places
 avg = format(average, '.2f')
-print(f"Your average for your {num_of_course} courses is: {format(avg)}")
+print(f"Your average for your {num_of_course} courses is: {avg}")
 
 
 # Part 3: Output the grade using 'if - elif' condition

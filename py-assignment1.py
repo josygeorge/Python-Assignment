@@ -27,8 +27,8 @@ for mark in course_marks:
 
 # loop through the marks to find the total marks
 total_marks = 0
-for i in range(len(course_marks)):
-    total_marks += course_marks[i]
+for x in range(len(course_marks)):
+    total_marks += course_marks[x]
 
 # finding average
 average = total_marks / num_of_course

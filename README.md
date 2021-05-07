@@ -28,7 +28,7 @@
         <li><a href="#git-installation">GIT Installation</a></li>
       </ul>
     </li>
-    <li><a href="#normal-git-usage">Normal GIT Usage</a></li>
+    <li><a href="#normal-git-usage">GIT Usage</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
